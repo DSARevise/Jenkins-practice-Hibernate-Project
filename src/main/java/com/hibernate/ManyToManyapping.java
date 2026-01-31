@@ -35,6 +35,7 @@ public class ManyToManyapping {
 		    s2.setStudentMarks(95);
 		    s1.setJoiningDate(new Date());
 		    
+		    
 
 		    // Set relationships
 		    s1.addCourse(c1);
